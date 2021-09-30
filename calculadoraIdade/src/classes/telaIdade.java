@@ -7,10 +7,6 @@ package classes;
 
 import java.time.LocalDateTime;
 
-/**
- *
- * @author jrdutra
- */
 public class telaIdade extends javax.swing.JFrame {
 
     /**
